@@ -43,9 +43,16 @@ Creating new branch
 
 $ git branch <name>
 
+or 
+
+$ git switch -c <name>
+
 Go to other version 
 
 $ git switch <name>
+
+$ git push --set-upstream origin <name branch>
+
 
 
 
