@@ -53,6 +53,12 @@ $ git switch <name>
 
 $ git push --set-upstream origin <name branch>
 
+* Already on branch master
+
+	Using Merge
+	
+	$ git merge <name branch>
+
 
 
 
