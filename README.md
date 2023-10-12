@@ -59,6 +59,10 @@ $ git push --set-upstream origin <name branch>
 	
 	$ git merge <name branch>
 
+Deleting branch 
+
+$ git branch -d <branch name>
+
 
 
 
