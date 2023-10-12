@@ -19,4 +19,8 @@ Commit
 
 $ git commit -m "<message>"
 
+History
+
+$ git log
+
 
