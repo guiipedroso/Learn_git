@@ -82,9 +82,7 @@ $ git commit --amend -m  "<new message>"
 
 WARNING!! 
 
-$ git rebase 
 
-$ git reverse 
 
 
 
