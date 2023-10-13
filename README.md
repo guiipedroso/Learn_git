@@ -23,6 +23,8 @@ History
 
 $ git log
 
+$ git log --oneline
+
 Help 
 
 $ git help --all 
@@ -62,6 +64,26 @@ $ git push --set-upstream origin <name branch>
 Deleting branch 
 
 $ git branch -d <branch name>
+
+Git ignore 
+
+creating file
+
+.gitignore 
+
+indicate files or folders that I want git not to put in the repository
+
+
+Correcting commit message
+
+$ git log --oneline (see)
+
+$ git commit --amend -m  "<new message>"
+
+WARNING!! 
+
+
+
 
 
 
