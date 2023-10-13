@@ -86,8 +86,9 @@ $ git revert HEAD( or HASH) --no-edit (or -m " new message")
 
 $ git revert HEAD --no-edit 
 
+Return commit 
 
-Alterei aqui
+$ git stash
 
 
 
